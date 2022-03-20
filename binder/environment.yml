@@ -11,3 +11,9 @@ dependencies:
   - vpython
   - pandas
   - metakernel
+  - pip:
+    - calysto_scheme
+    - metakernel
+    - numpy
+    - calysto
+    - yasi
